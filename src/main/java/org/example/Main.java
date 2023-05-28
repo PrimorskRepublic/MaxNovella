@@ -1,6 +1,5 @@
 package org.example;
 
-import java.beans.Encoder;
 import java.util.Objects;
 import java.util.Random;
 import java.util.Scanner;
